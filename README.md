@@ -8,4 +8,4 @@ For this repository we will have some bash script and terraform files
 We mainly will use this for Infrastructure as code
 
 
-<center><h1> Hello World <h1><center>
+<center><h1> Hello World </h1></center>
