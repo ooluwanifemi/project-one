@@ -1,5 +1,16 @@
 #!/bin/bash
 
+#OWNER: Oluwanifemi Oluwagbemila
+
+
+#Echo "This machine as been running for ...."
+echo "This machine as been running for"
+
+
+#Check How long this Machine as been running
+uptime
+
+
 
 #Create a file with the name domino.yaml
 touch domino.yaml
