@@ -13,7 +13,6 @@
 #greetings from the machine
 echo "Hi there! I hope you are doing well today"
 sleep 5
-clear
 
 
 
@@ -23,7 +22,6 @@ clear
 echo "You are the user called" && whoami
 #whoami
 sleep 5
-clear
 
 
 
@@ -32,7 +30,6 @@ clear
 echo "You are currently working in the directory shown below"
 pwd
 sleep 5
-clear
 
 
 
